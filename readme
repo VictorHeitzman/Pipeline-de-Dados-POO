@@ -1,0 +1,12 @@
+projeto que realiza um pipeline dados 
+
+Problema ->
+Hoje existem dois pequenos comercios de vendas, porem
+ as bases são diferentes, um já esta estruturado e contem uma api para captura de informações,
+o outro ainda usa excel.
+Preciso juntar essas duas informações e gerar um relatorio para time analitico.
+Porém, os existem informaçoes em um arquivo que não contém no outro, 
+tive que restruturar os cabeçalhos para mante-los iguais e ai sim realizar a transformação desses dados 
+
+Resumo ->
+Criei um pipeline de dados que junta dados de uma api e um csv de empresas distintas gerando uma base estruturada para o time de analytics 
